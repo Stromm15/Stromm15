@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! i'm Ezar Adrian Khairi 👋
+
+![ezar](img/github-header-banner.png)
 
 <!--
 **ezar100/ezar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
