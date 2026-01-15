@@ -1,4 +1,4 @@
-## Hello World! i'm Ezar Adrian Khairi 👋
+
 
 ![ezar](img/github-header-banner.png)
 
